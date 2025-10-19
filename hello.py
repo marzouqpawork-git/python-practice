@@ -1,1 +1,1 @@
-print("Hello GitHub from mobile!")
+print("Hello, github from pydroid")
